@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  
+  <title>Frontend Mentor | QR code component</title>
+  <style>
+    html {
+      background-color: hsl(220, 15%, 55%);
+      height: 100%; 
+    }
+
+    body {
+      margin: 0;
+      padding: 20px; 
+      box-sizing: border-box; 
+      background-color: hsl(220, 15%, 55%);
+      color: hsl(0, 0%, 100%);
+      font-size: 15px;
+      font-family: 'Your Chosen Font', sans-serif; 
+    }
+
+    img {
+      max-width: 100%; 
+      height: auto; 
+      display: block; 
+      margin: 0 auto;
+      border-radius: 10px;
+    }
+
+    .attribution {
+      text-align: center;
+      margin-top: 20px; 
+    }
+
+    .attribution a {
+      color: hsl(228, 45%, 44%);
+      font-weight: 700;
+    }
+  </style>
+</head>
+<body>
+  <img src="/Group 1.jpg"Qr Code>
+
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Mordy99</a>.
+  </div>
+</body>
+</html>
